@@ -8,6 +8,8 @@ This guide shows you how to download the MinIO Docker image as a tar file and us
 
 <p>test</p>
 
+<p>### **Option A: From a machine with internet access**</p>
+
 ### **Option A: From a machine with internet access**
 
 ```bash
