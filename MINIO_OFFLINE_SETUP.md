@@ -8,6 +8,8 @@ This guide shows you how to download the MinIO Docker image as a tar file and us
 
 ### **Option A: From a machine with internet access**
 
+<p>hello</p>
+
 ```bash
 # Pull the specific MinIO image
 docker pull minio/minio:RELEASE.2024-01-16T16-07-38Z
